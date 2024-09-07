@@ -1,0 +1,19 @@
+{
+  "name": "cypress-image-selector",
+  "version": "1.0.3",
+  "description": "Cypress плагин для поиска элементов по картинке",
+  "author": {
+    "name": "dakhetov",
+    "email": "dakhetov@outlook.com",
+    "url": "https://www.linkedin.com/in/dakhetov/"
+  },
+  "keywords": ["cypress", "selector", "visual-testing", "cypress-plugin", "element-search"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dakhetov/cypress-image-selector"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  }
+}
